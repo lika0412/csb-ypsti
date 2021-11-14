@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://lika0412.github.io/csb-ypsti/static/css/main.a5a5df37.chunk.css",
+    "main.js": "https://lika0412.github.io/csb-ypsti/static/js/main.30cd9cec.chunk.js",
+    "main.js.map": "https://lika0412.github.io/csb-ypsti/static/js/main.30cd9cec.chunk.js.map",
+    "runtime-main.js": "https://lika0412.github.io/csb-ypsti/static/js/runtime-main.7b3dd4b0.js",
+    "runtime-main.js.map": "https://lika0412.github.io/csb-ypsti/static/js/runtime-main.7b3dd4b0.js.map",
+    "static/js/2.f5dba914.chunk.js": "https://lika0412.github.io/csb-ypsti/static/js/2.f5dba914.chunk.js",
+    "static/js/2.f5dba914.chunk.js.map": "https://lika0412.github.io/csb-ypsti/static/js/2.f5dba914.chunk.js.map",
+    "index.html": "https://lika0412.github.io/csb-ypsti/index.html",
+    "static/css/main.a5a5df37.chunk.css.map": "https://lika0412.github.io/csb-ypsti/static/css/main.a5a5df37.chunk.css.map",
+    "static/js/2.f5dba914.chunk.js.LICENSE.txt": "https://lika0412.github.io/csb-ypsti/static/js/2.f5dba914.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7b3dd4b0.js",
+    "static/js/2.f5dba914.chunk.js",
+    "static/css/main.a5a5df37.chunk.css",
+    "static/js/main.30cd9cec.chunk.js"
+  ]
+}
